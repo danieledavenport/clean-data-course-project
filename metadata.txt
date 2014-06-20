@@ -1,0 +1,1 @@
+Source data downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip as of Jun 19 2014 07:27:23
